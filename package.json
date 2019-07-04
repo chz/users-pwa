@@ -1,0 +1,12 @@
+{
+  "name": "users-pwa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "serve": "http-server -p 5555 build -c-1"
+  },
+  "keywords": ["pwa","vanillajs","users","workbox"],
+  "author": "Chingiz Mammadov",
+  "license": "ISC"
+}
